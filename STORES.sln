@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STORES", "STORES\STORES.csproj", "{6CC8ABE9-05CB-479F-9530-ABECA045BBFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC8ABE9-05CB-479F-9530-ABECA045BBFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC8ABE9-05CB-479F-9530-ABECA045BBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC8ABE9-05CB-479F-9530-ABECA045BBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC8ABE9-05CB-479F-9530-ABECA045BBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8546B6-A59D-4CFE-B633-C382CCF48074}
+	EndGlobalSection
+EndGlobal
